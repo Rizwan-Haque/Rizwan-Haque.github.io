@@ -1729,7 +1729,7 @@ body .body-overlay {
 
 @media (max-width: 930px) {
  .anim-text p {
-    font-size: 70pt;
+    font-size: 40pt;
   }
   @keyframes stinkyup {
     0% {

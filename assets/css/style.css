@@ -858,6 +858,18 @@ body .body-overlay {
 
 
 
+.key-skill{
+    background: #8BC34A;
+    border-radius: 20px;
+    padding: 6px 22px;
+    color: #000000;
+    
+}
+
+.portfolio-image img{
+    border-radius: 20px;
+}
+
 /* 18 - Contact */
 .contact-area {
     padding-bottom: 50px;
